@@ -1,0 +1,6 @@
+LinqToYaml/bin/
+LinqToYaml/obj/
+LinqToYaml.ClientApp/bin/
+LinqToYaml.ClientApp/obj/
+LinqToYaml.test/bin/
+LinqToYaml.test/obj

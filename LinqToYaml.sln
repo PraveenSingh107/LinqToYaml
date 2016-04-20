@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToYaml", "LinqToYaml\LinqToYaml.csproj", "{3D173790-9A5C-4948-8B90-9E4CDBD5B20F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToYaml.ClientApp", "LinqToYaml.ClientApp\LinqToYaml.ClientApp.csproj", "{285E43D2-9E10-4C7E-8819-00E422C16CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToYaml.test", "LinqToYaml.test\LinqToYaml.test.csproj", "{62133BD0-2586-428C-9B67-EEA686D297D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{3D173790-9A5C-4948-8B90-9E4CDBD5B20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D173790-9A5C-4948-8B90-9E4CDBD5B20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D173790-9A5C-4948-8B90-9E4CDBD5B20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285E43D2-9E10-4C7E-8819-00E422C16CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285E43D2-9E10-4C7E-8819-00E422C16CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285E43D2-9E10-4C7E-8819-00E422C16CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285E43D2-9E10-4C7E-8819-00E422C16CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62133BD0-2586-428C-9B67-EEA686D297D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62133BD0-2586-428C-9B67-EEA686D297D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62133BD0-2586-428C-9B67-EEA686D297D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62133BD0-2586-428C-9B67-EEA686D297D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

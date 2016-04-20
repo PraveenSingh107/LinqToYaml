@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>96016994-1cf3-48fa-bf40-3180a3c93e9a</ProjectGuid>
+    <ProjectGuid>{285E43D2-9E10-4C7E-8819-00E422C16CD5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LinqToYaml.ClientApp</RootNamespace>
